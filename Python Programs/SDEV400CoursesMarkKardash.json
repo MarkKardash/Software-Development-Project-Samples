@@ -1,0 +1,114 @@
+{
+   "Courses": [
+    {
+       "PutRequest": {
+            "Item": {
+              "CourseID": { "S": "001"},
+              "Subject": { "S": "SDEV"},
+              "Num": { "N": "400"},
+              "Title":{ "S": "Secure Programming in the Cloud"},
+              "NumCredits": { "N": "3" }
+            }
+        }
+    },
+    {
+      "PutRequest": {
+          "Item": {
+            "CourseID": { "S": "002"},
+            "Subject": { "S": "SDEV"},
+            "Num": { "N": "350"},
+            "Title":{ "S": "Building Secure Web Applications"},
+            "NumCredits": { "N": "3" }
+          }
+       }
+    },
+    {
+      "PutRequest": {
+          "Item": {
+            "CourseID": { "S": "003"},
+            "Subject": { "S": "WRTG"},
+            "Num": { "N": "201"},
+            "Title":{ "S": "Introduction to News Writing"},
+            "NumCredits": { "N": "3" }
+          }
+       }
+    },
+    {
+      "PutRequest": {
+          "Item": {
+            "CourseID": { "S": "004"},
+            "Subject": { "S": "COMM"},
+            "Num": { "N": "300"},
+            "Title":{ "S": "Communication Theory"},
+            "NumCredits": { "N": "3" }
+          }
+        }
+    },
+    {
+      "PutRequest": {
+          "Item": {
+            "CourseID": { "S": "005"},
+            "Subject": { "S": "SDEV"},
+            "Num": { "N": "425"},
+            "Title":{ "S": "Mitigating Software Vulnerabilities"},
+            "NumCredits": { "N": "4" }
+          }
+        }
+    },
+    {
+      "PutRequest": {
+          "Item": {
+            "CourseID": { "S": "006"},
+            "Subject": { "S": "WRTG"},
+            "Num": { "N": "394"},
+            "Title":{ "S": "Advanced Business Writing"},
+            "NumCredits": { "N": "4" }
+          }
+        }
+    },
+    {
+      "PutRequest": {
+          "Item": {
+            "CourseID": { "S": "007"},
+            "Subject": { "S": "MATH"},
+            "Num": { "N": "107"},
+            "Title":{ "S": "College Algebra"},
+            "NumCredits": { "N": "3" }
+          }
+        }
+    },
+    {
+      "PutRequest": {
+          "Item": {
+            "CourseID": { "S": "008"},
+            "Subject": { "S": "PSYC"},
+            "Num": { "N": "100"},
+            "Title":{ "S": "Introduction to Psychology"},
+            "NumCredits": { "N": "3" }
+          }
+       }
+    },
+    {
+      "PutRequest": {
+          "Item": {
+            "CourseID": { "S": "009"},
+            "Subject": { "S": "BIOL"},
+            "Num": { "N": "301"},
+            "Title":{ "S": "Human Health and Disease"},
+            "NumCredits": { "N": "3" }
+          }
+       }
+    },
+    {
+      "PutRequest": {
+          "Item": {
+            "CourseID": { "S": "0010"},
+            "Subject": { "S": "WRTG"},
+            "Num": { "N": "391"],
+            "Title":{ "S": "Advanced Research Writing"},
+            "NumCredits": { "N": "4" }
+          }
+        }
+    }
+  ]
+}
